@@ -1,7 +1,4 @@
 # -hack-Club-DA-Final-Project
-Here's a professionally structured `README.md` file for your project, written in Markdown format. It provides clear information on your data analysis process, findings, limitations, and recommendations:
-
----
 
 # 📊 GPA and Lifestyle Analysis Using Python & Google Colab
 
