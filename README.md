@@ -1,4 +1,4 @@
-# -hack-Club-DA-Final-Project
+# -Hack-Club-DA-Final-Project
 
 # 📊 GPA and Lifestyle Analysis Using Python & Google Colab
 
